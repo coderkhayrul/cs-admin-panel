@@ -1,0 +1,53 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	outline: 0px;
+}
+/* Color Code Start */
+.c-blue-gray {
+	background-color: #455A64!important;
+}
+.c-gray {
+	background-color: #424242 !important;
+}
+/* Color Code End */
+.user-profile{
+	text-align: center;
+	padding: 20px 0px 0px;
+
+}
+.user-profile img{
+	width: 80px;
+	height:80px;
+	border-radius: 50%;
+	border:2px dotted gray;
+}
+.user-profile h4{
+	font-size:15px;
+}
+.user-profile p {
+	font-size: 12px;
+}
+.sidebar{
+	min-height: 758px;
+}
+footer a{
+	text-decoration: none;
+}
+footer a:hover{
+	text-decoration: none;
+	color: gold !important;
+}
+
+/* Login Form Style */
+#facebook{
+	background-color: #3C589C !important;
+	border-color:#3C589C;
+}
+#google{
+	background-color: #DF4B3B !important;
+	border-color:#DF4B3B;
+}
+#forgot{
+	text-decoration: none;
+}
